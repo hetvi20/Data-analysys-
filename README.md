@@ -1,4 +1,4 @@
-# Data analyst
+# Data analyst of Local store collection chart 
 Full Project in Excel with Interactive Dashboard  Assignment so in  Excel Data, Data Cleaning, Data Processing,  Data Analysis,  Interactive Dashboard
 
 ![Output](https://github.com/hetvi20/Data-analysys-/blob/main/Data-analsysy.png)
